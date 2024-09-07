@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Приложение для оценки учеников</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Приложение для оценки учеников</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/login">Вход</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/register">Регистрация</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/dashboard">Панель управления</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+        <div class="jumbotron">
+            <h1 class="display-4">Добро пожаловать в Приложение для оценки учеников</h1>
+            <p class="lead">Комплексный инструмент для управления оценками учеников, отслеживания их успеваемости и создания детальных отчетов.</p>
+            <hr class="my-4">
+            <p>Это приложение позволяет учителям легко управлять своими классами, записывать посещаемость учеников, домашние задания и оценки по критериям.</p>
+            <a class="btn btn-primary btn-lg" href="/register" role="button">Начать</a>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Функции</h2>
+                <ul>
+                    <li>Удобный интерфейс для учителей и учеников</li>
+                    <li>Подробное отслеживание успеваемости учеников</li>
+                    <li>Автоматический расчет оценок</li>
+                    <li>Безопасный вход и управление пользователями</li>
+                    <li>Настраиваемые критерии оценивания</li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <h2>Статистика</h2>
+                <div class="card-deck">
+                    <div class="card text-white bg-info mb-3">
+                        <div class="card-body">
+                            <h5 class="card-title">500+</h5>
+                            <p class="card-text">Учителей используют приложение</p>
+                        </div>
+                    </div>
+                    <div class="card text-white bg-success mb-3">
+                        <div class="card-body">
+                            <h5 class="card-title">2000+</h5>
+                            <p class="card-text">Оцененных учеников</p>
+                        </div>
+                    </div>
+                    <div class="card text-white bg-warning mb-3">
+                        <div class="card-body">
+                            <h5 class="card-title">150+</h5>
+                            <p class="card-text">Зарегистрированных школ</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-md-12">
+                <h2>Как это работает</h2>
+                <p>Приложение для оценки учеников упрощает процесс управления оценками учеников. Вот как это работает:</p>
+                <ol>
+                    <li>Учителя регистрируются и входят в приложение.</li>
+                    <li>Учителя создают и управляют своими классами и списками учеников.</li>
+                    <li>Во время каждого урока учителя записывают посещаемость, домашние задания и оценки по критериям.</li>
+                    <li>Приложение автоматически рассчитывает общие и средние баллы для каждого ученика.</li>
+                    <li>Учителя могут генерировать отчеты по четвертям и учебному году.</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-md-6">
+                <h2>Контакты</h2>
+                <form>
+                    <div class="form-group">
+                        <label for="contactName">Имя</label>
+                        <input type="text" class="form-control" id="contactName" placeholder="Введите ваше имя">
+                    </div>
+                    <div class="form-group">
+                        <label for="contactEmail">Электронная почта</label>
+                        <input type="email" class="form-control" id="contactEmail" placeholder="Введите вашу электронную почту">
+                    </div>
+                    <div class="form-group">
+                        <label for="contactMessage">Сообщение</label>
+                        <textarea class="form-control" id="contactMessage" rows="3" placeholder="Введите ваше сообщение"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Отправить</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer mt-5 py-3 bg-light">
+        <div class="container">
+            <span class="text-muted">© 2023 Приложение для оценки учеников. Все права защищены.</span>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

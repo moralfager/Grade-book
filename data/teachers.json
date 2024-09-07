@@ -1,0 +1,7 @@
+{
+    "teachers": [
+        {"email": "teacher1@example.com", "password": "password1", "subject": "География"},
+        {"email": "teacher2@example.com", "password": "password2", "subject": "Математика"},
+        {"email": "teacher3@example.com", "password": "password3", "subject": "Информатика"}
+    ]
+}

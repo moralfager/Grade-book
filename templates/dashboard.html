@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}">
+</head>
+<body>
+    <div class="schedule-container">
+        <h1>РАСПИСАНИЕ</h1>
+        <h2>Первая смена</h2>
+        <table class="schedule-table">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>08:00-08:45</th>
+                    <th>09:00-09:45</th>
+                    <th>10:00-10:45</th>
+                    <th>11:00-11:45</th>
+                    <th>12:00-12:45</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for day, classes in schedule_first_shift.items() %}
+                <tr>
+                    <td>{{ day }}</td>
+                    {% for time_slot in ["08:00-08:45", "09:00-09:45", "10:00-10:45", "11:00-11:45", "12:00-12:45"] %}
+                        <td>
+                            {% if classes.get(time_slot) %}
+                                <a href="{{ url_for('journal', class_name=classes.get(time_slot)) }}">{{ classes.get(time_slot) }}</a>
+                            {% else %}
+                                {{ classes.get(time_slot, '') }}
+                            {% endif %}
+                        </td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <h2>Вторая смена</h2>
+        <table class="schedule-table">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>14:00-14:45</th>
+                    <th>15:00-15:45</th>
+                    <th>16:00-16:45</th>
+                    <th>17:00-17:45</th>
+                    <th>18:00-18:45</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for day, classes in schedule_second_shift.items() %}
+                <tr>
+                    <td>{{ day }}</td>
+                    {% for time_slot in ["14:00-14:45", "15:00-15:45", "16:00-16:45", "17:00-17:45", "18:00-18:45"] %}
+                        <td>
+                            {% if classes.get(time_slot) %}
+                                <a href="{{ url_for('journal', class_name=classes.get(time_slot)) }}">{{ classes.get(time_slot) }}</a>
+                            {% else %}
+                                {{ classes.get(time_slot, '') }}
+                            {% endif %}
+                        </td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

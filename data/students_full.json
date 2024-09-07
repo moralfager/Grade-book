@@ -1,0 +1,2966 @@
+{
+    "8A": [
+        {
+            "name": "Altynai Akhmetov",
+            "class": "8A"
+        },
+        {
+            "name": "Aruzhan Baimuratov",
+            "class": "8A"
+        },
+        {
+            "name": "Bibigul Bekzhanov",
+            "class": "8A"
+        },
+        {
+            "name": "Danel Dosmuratov",
+            "class": "8A"
+        },
+        {
+            "name": "Dana Esenov",
+            "class": "8A"
+        },
+        {
+            "name": "Dinara Gabitov",
+            "class": "8A"
+        },
+        {
+            "name": "Elena Kalymbetov",
+            "class": "8A"
+        },
+        {
+            "name": "Gulnaz Kozhakhmetov",
+            "class": "8A"
+        },
+        {
+            "name": "Madina Nurgaliev",
+            "class": "8A"
+        },
+        {
+            "name": "Nazym Omarov",
+            "class": "8A"
+        },
+        {
+            "name": "Raisa Rakhatov",
+            "class": "8A"
+        },
+        {
+            "name": "Saltanat Serikbaev",
+            "class": "8A"
+        },
+        {
+            "name": "Sholpan Tursynbekov",
+            "class": "8A"
+        },
+        {
+            "name": "Zhanar Yessirkepov",
+            "class": "8A"
+        },
+        {
+            "name": "Zhansaya Zharasov",
+            "class": "8A"
+        }
+    ],
+    "8B": [
+        {
+            "name": "Altynai Akhmetov",
+            "class": "8B",
+            "id": "f27288d34f6a673bc85110ad61118aef",
+            "lessons": {
+                "1": {
+                    "attendance": 10,
+                    "homework": 10,
+                    "criteria1": 10,
+                    "criteria2": 10,
+                    "criteria3": 10,
+                    "criteria4": 10,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Aruzhan Baimuratov",
+            "class": "8B",
+            "id": "f749acc1bf85b7e68de276cf4163d306",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Bibigul Bekzhanov",
+            "class": "8B",
+            "id": "d4ea3c468c4bae52754331bcb6cdf0d1",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Danel Dosmuratov",
+            "class": "8B",
+            "id": "a905ea41435537c6bff584970a124eab",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Dana Esenov",
+            "class": "8B",
+            "id": "8a403f38374d9004142f5b74f463dab8",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Dinara Gabitov",
+            "class": "8B",
+            "id": "bfe8e0bcdaa8bbd389efacc079a54f1c",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Elena Kalymbetov",
+            "class": "8B",
+            "id": "303844b525a55bcfd2a2a36e401bdc1b",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Gulnaz Kozhakhmetov",
+            "class": "8B",
+            "id": "4f9094043772fbfe6977abf7e6e78c06",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Madina Nurgaliev",
+            "class": "8B",
+            "id": "15e879511a9113e446e6f326114036e7",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Nazym Omarov",
+            "class": "8B",
+            "id": "8809996c9f32773a6795ea820ac98483",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Raisa Rakhatov",
+            "class": "8B",
+            "id": "f8a85e58ec39562d1a861430b749db94",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Saltanat Serikbaev",
+            "class": "8B",
+            "id": "fc67bb73237684914923d0e167c12004",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Sholpan Tursynbekov",
+            "class": "8B",
+            "id": "c637155e00278c1757c7baff2b63588c",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Zhanar Yessirkepov",
+            "class": "8B",
+            "id": "4756ed93534d7430e13f13f167c9b6e9",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Zhansaya Zharasov",
+            "class": "8B",
+            "id": "165b4dc19196fb070e0cd92c275098da",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        }
+    ],
+    "8C": [
+        {
+            "name": "Altynai Akhmetov",
+            "class": "8C"
+        },
+        {
+            "name": "Aruzhan Baimuratov",
+            "class": "8C"
+        },
+        {
+            "name": "Bibigul Bekzhanov",
+            "class": "8C"
+        },
+        {
+            "name": "Danel Dosmuratov",
+            "class": "8C"
+        },
+        {
+            "name": "Dana Esenov",
+            "class": "8C"
+        },
+        {
+            "name": "Dinara Gabitov",
+            "class": "8C"
+        },
+        {
+            "name": "Elena Kalymbetov",
+            "class": "8C"
+        },
+        {
+            "name": "Gulnaz Kozhakhmetov",
+            "class": "8C"
+        },
+        {
+            "name": "Madina Nurgaliev",
+            "class": "8C"
+        },
+        {
+            "name": "Nazym Omarov",
+            "class": "8C"
+        },
+        {
+            "name": "Raisa Rakhatov",
+            "class": "8C"
+        },
+        {
+            "name": "Saltanat Serikbaev",
+            "class": "8C"
+        },
+        {
+            "name": "Sholpan Tursynbekov",
+            "class": "8C"
+        },
+        {
+            "name": "Zhanar Yessirkepov",
+            "class": "8C"
+        },
+        {
+            "name": "Zhansaya Zharasov",
+            "class": "8C"
+        }
+    ],
+    "9A": [
+        {
+            "name": "Altynai Akhmetov",
+            "class": "9A"
+        },
+        {
+            "name": "Aruzhan Baimuratov",
+            "class": "9A"
+        },
+        {
+            "name": "Bibigul Bekzhanov",
+            "class": "9A"
+        },
+        {
+            "name": "Danel Dosmuratov",
+            "class": "9A"
+        },
+        {
+            "name": "Dana Esenov",
+            "class": "9A"
+        },
+        {
+            "name": "Dinara Gabitov",
+            "class": "9A"
+        },
+        {
+            "name": "Elena Kalymbetov",
+            "class": "9A"
+        },
+        {
+            "name": "Gulnaz Kozhakhmetov",
+            "class": "9A"
+        },
+        {
+            "name": "Madina Nurgaliev",
+            "class": "9A"
+        },
+        {
+            "name": "Nazym Omarov",
+            "class": "9A"
+        },
+        {
+            "name": "Raisa Rakhatov",
+            "class": "9A"
+        },
+        {
+            "name": "Saltanat Serikbaev",
+            "class": "9A"
+        },
+        {
+            "name": "Sholpan Tursynbekov",
+            "class": "9A"
+        },
+        {
+            "name": "Zhanar Yessirkepov",
+            "class": "9A"
+        },
+        {
+            "name": "Zhansaya Zharasov",
+            "class": "9A"
+        }
+    ],
+    "9B": [
+        {
+            "name": "Altynai Akhmetov",
+            "class": "9B",
+            "id": "a1752fcd8ef9c96bcf5c73f338faa797",
+            "lessons": {
+                "1": {
+                    "attendance": 10,
+                    "homework": 10,
+                    "criteria1": 10,
+                    "criteria2": 10,
+                    "criteria3": 10,
+                    "criteria4": 10,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 10,
+                    "homework": 10,
+                    "criteria1": 10,
+                    "criteria2": 5,
+                    "criteria3": 10,
+                    "criteria4": 10,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 10,
+                    "homework": 10,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 57.5,
+            "grade": 5,
+            "lesson_data": [
+                {
+                    "attendance": 10,
+                    "homework": 10,
+                    "criteria1": 10,
+                    "criteria2": 10,
+                    "criteria3": 10,
+                    "criteria4": 10,
+                    "total": 60
+                },
+                {
+                    "attendance": 10,
+                    "homework": 10,
+                    "criteria1": 10,
+                    "criteria2": 5,
+                    "criteria3": 10,
+                    "criteria4": 10,
+                    "total": 55
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Aruzhan Baimuratov",
+            "class": "9B",
+            "id": "14a03322a3cf5647d4a40388155c1d5d",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Bibigul Bekzhanov",
+            "class": "9B",
+            "id": "1191a62a77fcd2c4ddc3f853c7a082c7",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Danel Dosmuratov",
+            "class": "9B",
+            "id": "e08433059145e9099ec9a84eee532467",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 10,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 5.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 10,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 10
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Dana Esenov",
+            "class": "9B",
+            "id": "3e7213b7c8d0d491e4a08fd389c45e55",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Dinara Gabitov",
+            "class": "9B",
+            "id": "4b5a98bf9a6cc40f7f6e12413293d7fe",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Elena Kalymbetov",
+            "class": "9B",
+            "id": "e28b02b446b7cf4f0166f7484c37182f",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Gulnaz Kozhakhmetov",
+            "class": "9B",
+            "id": "ef48ec37a52615c4f2f7d4a40828a4b8",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Madina Nurgaliev",
+            "class": "9B",
+            "id": "89cb5aa37728fe36cc051c5f83eae663",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Nazym Omarov",
+            "class": "9B",
+            "id": "5be08de55ece07df0ceb418dee6f8da0",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Raisa Rakhatov",
+            "class": "9B",
+            "id": "bfd2ee7854078dd3380352964065b59d",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Saltanat Serikbaev",
+            "class": "9B",
+            "id": "9e6af7beb9aebfcc0ea5da6571fae829",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Sholpan Tursynbekov",
+            "class": "9B",
+            "id": "3bab6477ab1d650ca5526860944563e2",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Zhanar Yessirkepov",
+            "class": "9B",
+            "id": "1e43da8f1c41ac8c1ebc9fa0af9c5903",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        },
+        {
+            "name": "Zhansaya Zharasov",
+            "class": "9B",
+            "id": "29ecdc0c028a128d7a3d56f4092cefbf",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "2": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                },
+                "3": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            },
+            "final_points": 0.0,
+            "grade": 2,
+            "lesson_data": [
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                },
+                {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "total": 0
+                }
+            ]
+        }
+    ],
+    "9C": [
+        {
+            "name": "Altynai Akhmetov",
+            "class": "9C",
+            "id": "33e76fda381be46c9548c8033ab7c64a",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 10,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Aruzhan Baimuratov",
+            "class": "9C",
+            "id": "8942e20181b6c56a198fdef0d013c2a0",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Bibigul Bekzhanov",
+            "class": "9C",
+            "id": "032c4c933765ceadaa73f4d1befc3304",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Danel Dosmuratov",
+            "class": "9C",
+            "id": "e2c327c666892197cc6eeb60c306145c",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Dana Esenov",
+            "class": "9C",
+            "id": "71dede01943b6472e52080f591b6dcfd",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Dinara Gabitov",
+            "class": "9C",
+            "id": "11864247ef2f8c14afe4698b1e842754",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Elena Kalymbetov",
+            "class": "9C",
+            "id": "7aa0edecad1eb5a8549ea0ddeb35cd60",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Gulnaz Kozhakhmetov",
+            "class": "9C",
+            "id": "3c83d156fffb3606b1b1638cc09189c9",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Madina Nurgaliev",
+            "class": "9C",
+            "id": "52ab3a76940ec72766f2f025c56e056b",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Nazym Omarov",
+            "class": "9C",
+            "id": "0c22437065afb82ab7af7462adb1983e",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Raisa Rakhatov",
+            "class": "9C",
+            "id": "da9e298a6ec8c9d3d9d69894ddd6190c",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Saltanat Serikbaev",
+            "class": "9C",
+            "id": "6dee067b9bf493b1f34e2c5ca260b59f",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Sholpan Tursynbekov",
+            "class": "9C",
+            "id": "deebf728d713b6c165e502d13850fc5b",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Zhanar Yessirkepov",
+            "class": "9C",
+            "id": "e97abb041ed21afe5aaa1b40a40fbfe7",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        },
+        {
+            "name": "Zhansaya Zharasov",
+            "class": "9C",
+            "id": "79572f1f592c4fb48599fe1e430e3238",
+            "lessons": {
+                "1": {
+                    "attendance": 0,
+                    "homework": 0,
+                    "criteria1": 0,
+                    "criteria2": 0,
+                    "criteria3": 0,
+                    "criteria4": 0,
+                    "comment": ""
+                }
+            }
+        }
+    ],
+    "10A": [
+        {
+            "name": "Altynai Akhmetov",
+            "class": "10A"
+        },
+        {
+            "name": "Aruzhan Baimuratov",
+            "class": "10A"
+        },
+        {
+            "name": "Bibigul Bekzhanov",
+            "class": "10A"
+        },
+        {
+            "name": "Danel Dosmuratov",
+            "class": "10A"
+        },
+        {
+            "name": "Dana Esenov",
+            "class": "10A"
+        },
+        {
+            "name": "Dinara Gabitov",
+            "class": "10A"
+        },
+        {
+            "name": "Elena Kalymbetov",
+            "class": "10A"
+        },
+        {
+            "name": "Gulnaz Kozhakhmetov",
+            "class": "10A"
+        },
+        {
+            "name": "Madina Nurgaliev",
+            "class": "10A"
+        },
+        {
+            "name": "Nazym Omarov",
+            "class": "10A"
+        },
+        {
+            "name": "Raisa Rakhatov",
+            "class": "10A"
+        },
+        {
+            "name": "Saltanat Serikbaev",
+            "class": "10A"
+        },
+        {
+            "name": "Sholpan Tursynbekov",
+            "class": "10A"
+        },
+        {
+            "name": "Zhanar Yessirkepov",
+            "class": "10A"
+        },
+        {
+            "name": "Zhansaya Zharasov",
+            "class": "10A"
+        }
+    ],
+    "10B": [
+        {
+            "name": "Altynai Akhmetov",
+            "class": "10B"
+        },
+        {
+            "name": "Aruzhan Baimuratov",
+            "class": "10B"
+        },
+        {
+            "name": "Bibigul Bekzhanov",
+            "class": "10B"
+        },
+        {
+            "name": "Danel Dosmuratov",
+            "class": "10B"
+        },
+        {
+            "name": "Dana Esenov",
+            "class": "10B"
+        },
+        {
+            "name": "Dinara Gabitov",
+            "class": "10B"
+        },
+        {
+            "name": "Elena Kalymbetov",
+            "class": "10B"
+        },
+        {
+            "name": "Gulnaz Kozhakhmetov",
+            "class": "10B"
+        },
+        {
+            "name": "Madina Nurgaliev",
+            "class": "10B"
+        },
+        {
+            "name": "Nazym Omarov",
+            "class": "10B"
+        },
+        {
+            "name": "Raisa Rakhatov",
+            "class": "10B"
+        },
+        {
+            "name": "Saltanat Serikbaev",
+            "class": "10B"
+        },
+        {
+            "name": "Sholpan Tursynbekov",
+            "class": "10B"
+        },
+        {
+            "name": "Zhanar Yessirkepov",
+            "class": "10B"
+        },
+        {
+            "name": "Zhansaya Zharasov",
+            "class": "10B"
+        }
+    ],
+    "10C": [
+        {
+            "name": "Altynai Akhmetov",
+            "class": "10C"
+        },
+        {
+            "name": "Aruzhan Baimuratov",
+            "class": "10C"
+        },
+        {
+            "name": "Bibigul Bekzhanov",
+            "class": "10C"
+        },
+        {
+            "name": "Danel Dosmuratov",
+            "class": "10C"
+        },
+        {
+            "name": "Dana Esenov",
+            "class": "10C"
+        },
+        {
+            "name": "Dinara Gabitov",
+            "class": "10C"
+        },
+        {
+            "name": "Elena Kalymbetov",
+            "class": "10C"
+        },
+        {
+            "name": "Gulnaz Kozhakhmetov",
+            "class": "10C"
+        },
+        {
+            "name": "Madina Nurgaliev",
+            "class": "10C"
+        },
+        {
+            "name": "Nazym Omarov",
+            "class": "10C"
+        },
+        {
+            "name": "Raisa Rakhatov",
+            "class": "10C"
+        },
+        {
+            "name": "Saltanat Serikbaev",
+            "class": "10C"
+        },
+        {
+            "name": "Sholpan Tursynbekov",
+            "class": "10C"
+        },
+        {
+            "name": "Zhanar Yessirkepov",
+            "class": "10C"
+        },
+        {
+            "name": "Zhansaya Zharasov",
+            "class": "10C"
+        }
+    ],
+    "11A": [
+        {
+            "name": "Altynai Akhmetov",
+            "class": "11A"
+        },
+        {
+            "name": "Aruzhan Baimuratov",
+            "class": "11A"
+        },
+        {
+            "name": "Bibigul Bekzhanov",
+            "class": "11A"
+        },
+        {
+            "name": "Danel Dosmuratov",
+            "class": "11A"
+        },
+        {
+            "name": "Dana Esenov",
+            "class": "11A"
+        },
+        {
+            "name": "Dinara Gabitov",
+            "class": "11A"
+        },
+        {
+            "name": "Elena Kalymbetov",
+            "class": "11A"
+        },
+        {
+            "name": "Gulnaz Kozhakhmetov",
+            "class": "11A"
+        },
+        {
+            "name": "Madina Nurgaliev",
+            "class": "11A"
+        },
+        {
+            "name": "Nazym Omarov",
+            "class": "11A"
+        },
+        {
+            "name": "Raisa Rakhatov",
+            "class": "11A"
+        },
+        {
+            "name": "Saltanat Serikbaev",
+            "class": "11A"
+        },
+        {
+            "name": "Sholpan Tursynbekov",
+            "class": "11A"
+        },
+        {
+            "name": "Zhanar Yessirkepov",
+            "class": "11A"
+        },
+        {
+            "name": "Zhansaya Zharasov",
+            "class": "11A"
+        }
+    ],
+    "11B": [
+        {
+            "name": "Altynai Akhmetov",
+            "class": "11B"
+        },
+        {
+            "name": "Aruzhan Baimuratov",
+            "class": "11B"
+        },
+        {
+            "name": "Bibigul Bekzhanov",
+            "class": "11B"
+        },
+        {
+            "name": "Danel Dosmuratov",
+            "class": "11B"
+        },
+        {
+            "name": "Dana Esenov",
+            "class": "11B"
+        },
+        {
+            "name": "Dinara Gabitov",
+            "class": "11B"
+        },
+        {
+            "name": "Elena Kalymbetov",
+            "class": "11B"
+        },
+        {
+            "name": "Gulnaz Kozhakhmetov",
+            "class": "11B"
+        },
+        {
+            "name": "Madina Nurgaliev",
+            "class": "11B"
+        },
+        {
+            "name": "Nazym Omarov",
+            "class": "11B"
+        },
+        {
+            "name": "Raisa Rakhatov",
+            "class": "11B"
+        },
+        {
+            "name": "Saltanat Serikbaev",
+            "class": "11B"
+        },
+        {
+            "name": "Sholpan Tursynbekov",
+            "class": "11B"
+        },
+        {
+            "name": "Zhanar Yessirkepov",
+            "class": "11B"
+        },
+        {
+            "name": "Zhansaya Zharasov",
+            "class": "11B"
+        }
+    ],
+    "11C": [
+        {
+            "name": "Altynai Akhmetov",
+            "class": "11C"
+        },
+        {
+            "name": "Aruzhan Baimuratov",
+            "class": "11C"
+        },
+        {
+            "name": "Bibigul Bekzhanov",
+            "class": "11C"
+        },
+        {
+            "name": "Danel Dosmuratov",
+            "class": "11C"
+        },
+        {
+            "name": "Dana Esenov",
+            "class": "11C"
+        },
+        {
+            "name": "Dinara Gabitov",
+            "class": "11C"
+        },
+        {
+            "name": "Elena Kalymbetov",
+            "class": "11C"
+        },
+        {
+            "name": "Gulnaz Kozhakhmetov",
+            "class": "11C"
+        },
+        {
+            "name": "Madina Nurgaliev",
+            "class": "11C"
+        },
+        {
+            "name": "Nazym Omarov",
+            "class": "11C"
+        },
+        {
+            "name": "Raisa Rakhatov",
+            "class": "11C"
+        },
+        {
+            "name": "Saltanat Serikbaev",
+            "class": "11C"
+        },
+        {
+            "name": "Sholpan Tursynbekov",
+            "class": "11C"
+        },
+        {
+            "name": "Zhanar Yessirkepov",
+            "class": "11C"
+        },
+        {
+            "name": "Zhansaya Zharasov",
+            "class": "11C"
+        }
+    ]
+}

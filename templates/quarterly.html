@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quarterly Results for Class {{ class_name }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='quarterly.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>Итоговая Оценка за Четверть - Класс {{ class_name }}</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>№</th>
+                    <th>ФИО</th>
+                    {% for i in range(1, 11) %}
+                    <th>Урок {{ i }}</th>
+                    {% endfor %}
+                    <th>Итоговые Баллы</th>
+                    <th>Оценка</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for student in students %}
+                <tr>
+                    <td>{{ loop.index }}</td>
+                    <td>{{ student.name }}</td>
+                    {% for lesson in student.lesson_data %}
+                    <td>
+                        <div>{{ lesson.total }}</div>
+                    </td>
+                    {% endfor %}
+                    <td>{{ student.final_points }}</td>
+                    <td>{{ student.grade }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <a href="{{ url_for('journal', class_name=class_name) }}">Назад к Журналу</a>
+        <a href="{{ url_for('logout') }}">Выйти</a>
+    </div>
+</body>
+</html>

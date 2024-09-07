@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    width: 80%;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+input[type="number"],
+input[type="text"] {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+input[type="checkbox"] {
+    margin: auto;
+    display: block;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+select {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin: 10px 0;
+}
