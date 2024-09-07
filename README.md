@@ -24,13 +24,13 @@ This project is a **School Journal System** built using the Flask web framework.
 ```bash
 git clone https://github.com/yourusername/school-journal-system.git
 cd school-journal-system
-
+```
 ### 2. Running the Application
 Start the Flask development server with the following command:
 
 ```bash
 python app.py
-
+```
 Once the server is running, you can access the application by visiting:
 
 http://127.0.0.1:5000/
